@@ -1,0 +1,5 @@
+{
+  "name": "Remix: SSW Exam (Admin Controlled)",
+  "description": "A secure quiz application for Japanese construction terminology with Supabase-backed remote admin authorization.",
+  "requestFramePermissions": []
+}
